@@ -2,6 +2,8 @@ package com.example.quakereport;
 
 public class earthquake {
 
+
+    // public variables 
         private double mMagnitude ;
         private String mLocation ,murl ;
         private long  mDate ;
